@@ -14,35 +14,35 @@
     <dataObjects>
 
         <ResourceFrame id="NSR:ResourceFrame:ID" version="1">
-            <!-- Gyldighetsperiode ResourceFrame -->
+            <!-- Validity period ResourceFrame -->
             <validityConditions>
                 <AvailabilityCondition version="1" id="NSR:AvailabilityCondition:1"/>
             </validityConditions>
         </ResourceFrame>
         
         <SiteFrame id="NSR:SiteFrame:ID" version="1">
-            <!-- Gyldighetsperiode SiteFrame -->
+            <!-- Validity period SiteFrame -->
             <validityConditions>
                 <AvailabilityCondition version="1" id="NSR:AvailabilityCondition:2"/>
             </validityConditions>
         </SiteFrame>
         
         <ServiceFrame id="NSR:ServiceFrame:ID" version="1">
-            <!-- Gyldighetsperiode ServiceFrame -->
+            <!-- Validity period ServiceFrame -->
             <validityConditions>
                 <AvailabilityCondition version="1" id="NSR:AvailabilityCondition:3"/>
             </validityConditions>
         </ServiceFrame>
         
         <ServiceCalendarFrame id="NRH:ServiceCalendarFrame:ID" version="1">
-            <!-- Gyldighetsperiode CalendarFrame -->
+            <!-- Validity period CalendarFrame -->
             <validityConditions>
                 <AvailabilityCondition version="1" id="NSR:AvailabilityCondition:4"/>
             </validityConditions>
         </ServiceCalendarFrame>
         
         <TimetableFrame id="NSR:TimetableFrame:ID" version="1">
-            <!-- Gyldighetsperiode TimetableFrame -->
+            <!-- Validity period TimetableFrame -->
             <validityConditions>
                 <AvailabilityCondition version="1" id="NSR:AvailabilityCondition:5"/>
             </validityConditions>
